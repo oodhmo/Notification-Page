@@ -4,7 +4,7 @@
       <div class="title">
         <strong>Notifications</strong>
         <div class="num">{{ this.messageStore.msgCount }}</div>
-        <button class="btn">Mark all as read</button>
+        <button class="btn" @click="messageStore.changeAllRead">Mark all as read</button>
       </div>
       <div class="noti-list">
         <div class="msgs">

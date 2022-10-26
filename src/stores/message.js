@@ -29,6 +29,11 @@ export const useMessageStore = defineStore('messageStore', {
           item.readyn = 'y'
         }
       })
+    },
+    changeAllRead() {
+      this.messages.forEach((item) => {
+        item.readyn = 'y'
+      })
     }
   }
 })
