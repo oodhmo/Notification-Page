@@ -12,7 +12,8 @@
           :class="['', {'msg' : item.readyn === 'n', 'rd-msg' : item.readyn === 'y'}]" @click="messageStore.changeRead(item.name)">
             <img :src="require(`@/assets/images/${item.imgUrl}`)" class="user-img">
             <span>
-              <div v-html="item.message"/>
+              <span v-html="item.message"/>
+              <span v-if="item.readyn==='n'" class="alrt">🔸</span>
               <div v-html="item.ago"/>
               <div v-if="item.prvMsg" v-html="item.prvMsg" />
             </span>

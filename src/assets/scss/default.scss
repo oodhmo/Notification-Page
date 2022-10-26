@@ -33,10 +33,16 @@
 
     .btn {
       font-size: small;
+      weight: 800;
       margin-left: auto;
       border: 0;
       color: hsl(219, 12%, 42%);
       background-color: hsl(0, 0%, 100%);
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      color: hsl(224, 68%, 34%);
     }
   }
 }
@@ -106,6 +112,11 @@
   .postTitle:hover {
     cursor: pointer;
     color: hsl(224, 68%, 34%);
+  }
+
+  .alrt {
+    font-size: 10px;
+    margin-left: 7px
   }
 
   .ago {
