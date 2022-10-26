@@ -2,7 +2,7 @@
   {
     "name": "mark-webber",
     "imgUrl": "avatar-mark-webber.webp",
-    "message": "<strong class='name'>Mark Webber</strong> reacted to your recent post <strong>My first tournament today!</strong>",
+    "message": "<strong class='name'>Mark Webber</strong> reacted to your recent post <strong class='postTitle'>My first tournament today!</strong>",
     "ago": "<div class='ago'>1m ago</div>"
   },
   {

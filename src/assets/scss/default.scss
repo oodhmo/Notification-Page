@@ -66,6 +66,10 @@
     border-radius: 10px;
   }
 
+  .msg:hover {
+    cursor: pointer;
+  }
+
   .user-img {
     align-items: center;
     width: 40px;
@@ -89,10 +93,19 @@
     }
   }
 
-
   .name {
     color: black;
     font-weight: 800;
+  }
+
+  .name:hover {
+    cursor: pointer;
+    color: hsl(224, 68%, 34%);
+  }
+
+  .postTitle:hover {
+    cursor: pointer;
+    color: hsl(224, 68%, 34%);
   }
 
   .ago {
@@ -108,5 +121,10 @@
     padding: 15px;
     border: 1px solid rgb(214, 214, 214);
     border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .clb-msg:hover {
+    background-color: hsl(205, 33%, 90%);
   }
 }

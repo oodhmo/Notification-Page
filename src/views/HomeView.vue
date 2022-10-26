@@ -9,7 +9,7 @@
       <div class="noti-list">
         <div class="msgs">
           <div v-for="item in messageStore.messages" :key="item.name" 
-          :class="['', {'msg' : item.readyn === 'n', 'rd-msg' : item.readyn === 'y'}]">
+          :class="['', {'msg' : item.readyn === 'n', 'rd-msg' : item.readyn === 'y'}]" @click="messageStore.changeRead(item.name)">
             <img :src="require(`@/assets/images/${item.imgUrl}`)" class="user-img">
             <span>
               <div v-html="item.message"/>
