@@ -96,10 +96,10 @@
   .name {
     color: black;
     font-weight: 800;
+    cursor: pointer;
   }
 
   .name:hover {
-    cursor: pointer;
     color: hsl(224, 68%, 34%);
   }
 
@@ -115,6 +115,7 @@
 
   .club {
     color: #0136a9;
+    cursor: pointer;
   }
 
   .clb-msg {
