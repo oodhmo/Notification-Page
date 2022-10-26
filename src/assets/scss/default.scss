@@ -1,0 +1,112 @@
+@charset 'utf-8';
+
+#app {
+  width: 100%;
+  height: 100vh;
+  background-color: hsl(210, 60%, 98%);
+}
+
+.noti-section {
+  background-color: hsl(0, 0%, 100%);
+  width: 700px;
+  margin: auto;
+  top: 50%;
+  transform: translateY(2%);
+  box-shadow: 0 5px 20px rgba(234, 233, 233, 0.915);
+  border-radius: 10px;
+
+  .title {
+    padding: 4%;
+    display: flex;
+    font-size: 20px;
+
+    .num {
+      width: 30px;
+      background-color: hsl(224, 68%, 34%);
+      color: hsl(0, 0%, 100%);
+      text-align: center;
+      margin-left: 7px;
+      border-radius: 10px;
+      font-size: medium;
+      font-weight: 800;
+    }
+
+    .btn {
+      font-size: small;
+      margin-left: auto;
+      border: 0;
+      color: hsl(219, 12%, 42%);
+      background-color: hsl(0, 0%, 100%);
+    }
+  }
+}
+
+.noti-list {
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-bottom: 10px;
+
+  .msg {
+    margin-bottom: 10px;
+    padding: 12px;
+    background-color: hsl(210, 60%, 98%);
+    display: flex;
+    font-size: small;
+    color: hsl(219, 12%, 42%);
+    border-radius: 10px;
+  }
+
+  .rd-msg {
+    margin-bottom: 10px;
+    padding: 12px;
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    font-size: small;
+    color: hsl(219, 12%, 42%);
+    border-radius: 10px;
+  }
+
+  .user-img {
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+  }
+
+  .msg-content {
+    display: flex;
+    padding: 2%;
+
+    .title {
+      font-size: small;
+    }
+
+    .bottom {
+      border: 1px solid lightgray;
+      padding: 2%;
+      margin: 10px;
+      font-size: small;
+    }
+  }
+
+
+  .name {
+    color: black;
+    font-weight: 800;
+  }
+
+  .ago {
+    color: hsl(219, 14%, 63%);
+    margin-top: 5px;
+  }
+
+  .club {
+    color: #0136a9;
+  }
+
+  .clb-msg {
+    padding: 15px;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 10px;
+  }
+}

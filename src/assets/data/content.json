@@ -1,0 +1,45 @@
+[
+  {
+    "name": "mark-webber",
+    "imgUrl": "avatar-mark-webber.webp",
+    "message": "<strong class='name'>Mark Webber</strong> reacted to your recent post <strong>My first tournament today!</strong>",
+    "ago": "<div class='ago'>1m ago</div>"
+  },
+  {
+    "name": "angela-gray",
+    "imgUrl": "avatar-angela-gray.webp",
+    "message": "<strong class='name'>Angela Gray</strong> followed you",
+    "ago": "<div class='ago'>5m ago</div>"
+  },
+  {
+    "name": "jacob-thompson",
+    "imgUrl": "avatar-jacob-thompson.webp",
+    "message": "<strong class='name'>Jacob Thompson</strong> has joined your group <strong class='club'>Chess Club</strong>",
+    "ago": "<div class='ago'>1 day ago</div>"
+  },
+  {
+    "name": "rizky-hasanuddin",
+    "imgUrl": "avatar-rizky-hasanuddin.webp",
+    "message": "<strong class='name'>Rizky Hasanuddin</strong> sent you a private message",
+    "ago": "<div class='ago'>1 day ago</div>",
+    "prvMsg": "<p class='clb-msg'>Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.</p>"
+  },
+  {
+    "name": "kimberly-smith",
+    "imgUrl": "avatar-kimberly-smith.webp",
+    "message": "<strong class='name'>Kimberly Smith</strong> commented on your picture",
+    "ago": "<div class='ago'>1 week ago</div>"
+  },
+  {
+    "name": "nathan-peterson",
+    "imgUrl": "avatar-nathan-peterson.webp",
+    "message": "<strong class='name'>Nathan Peterson</strong> reacted to your recent post <strong>5 end-game strategies to increase your win rate</strong>",
+    "ago": "<div class='ago'>2 weeks ago</div>"
+  },
+  {
+    "name": "anna-kim",
+    "imgUrl": "avatar-anna-kim.webp",
+    "message": "<strong class='name'>Anna Kim</strong> left the group <strong class='club'>Chess Club</strong>",
+    "ago": "<div class='ago'>2 weeks ago</div>"
+  }
+]

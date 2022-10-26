@@ -1,0 +1,27 @@
+#app {
+  width: 100%;
+  height: 100vh;
+  background-color: hsl(210deg, 60%, 98%);
+}
+
+.noti-section {
+  background-color: hsl(0deg, 0%, 100%);
+  width: 750px;
+  height: 85vh;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.noti-section .title {
+  padding: 4%;
+  display: flex;
+  font-size: 20px;
+}
+.noti-section .title .num {
+  width: 30px;
+  background-color: hsl(224deg, 21%, 14%);
+  color: hsl(0deg, 0%, 100%);
+  text-align: center;
+  margin-left: 7px;
+}/*# sourceMappingURL=default.css.map */
