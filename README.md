@@ -22,7 +22,6 @@ https://hoijoii.github.io/Notification-Page/
 
 알림 데이터들은 assets/data/message.json에 들어있습니다.
 문제는 html 태그도 json에 저장해서 추후 내용을 확인하거나 수정하기 불편하다는 점입니다.
-동작을 구현하는 것만 목적으로 뒀더니 이런 결과물이 나왔네요.
 알림을 보내는 기능이 있다면 알림 종류에 따라 메세지가 체계적으로 구성되도록 할 수 있을 것 같습니다.
 
 
