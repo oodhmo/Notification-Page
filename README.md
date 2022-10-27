@@ -15,6 +15,9 @@ https://hoijoii.github.io/Notification-Page/
 - Cursor:pointer
 <img src="./pointer.gif">
 
+- Reactivity
+<img src="./reactivity">
+
 <br>
 ---
 
