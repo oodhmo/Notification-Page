@@ -16,7 +16,7 @@ https://hoijoii.github.io/Notification-Page/
 <img src="./pointer.gif">
 
 - Reactivity
-<img src="./reactivity">
+<img src="./reactivity.png">
 
 <br>
 ---
