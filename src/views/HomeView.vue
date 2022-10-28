@@ -17,6 +17,7 @@
               <div v-html="item.ago"/>
               <div v-if="item.prvMsg" v-html="item.prvMsg" />
             </span>
+            <img v-if="item.pic" :src="require(`@/assets/images/${item.pic}`)" class="pic">
           </div>
         </div>
       </div>

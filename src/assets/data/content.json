@@ -28,7 +28,8 @@
     "name": "kimberly-smith",
     "imgUrl": "avatar-kimberly-smith.webp",
     "message": "<strong class='name'>Kimberly Smith</strong> commented on your picture",
-    "ago": "<div class='ago'>1 week ago</div>"
+    "ago": "<div class='ago'>1 week ago</div>",
+    "pic": "image-chess.webp"
   },
   {
     "name": "nathan-peterson",
