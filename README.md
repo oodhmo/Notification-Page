@@ -1,9 +1,9 @@
 # Notification Page with Vue
 
-#JS #html5 #SCSS #Vue3.x (#Pinia)
+Javascript / Vue3 / SCSS
 
 github page:
-https://hoijoii.github.io/Notification-Page/
+https://oodhmo.github.io/Notification-Page/
 
 
 - Read notification
